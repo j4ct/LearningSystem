@@ -1,7 +1,7 @@
 {
   "1": {
-    "answer": "red",
-    "question": "What color is an apple?"
+    "answer": "brown",
+    "question": "What color is a chair?"
   },
   "2": {
     "answer": "yellow",

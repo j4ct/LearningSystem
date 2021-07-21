@@ -222,9 +222,9 @@ public class GUI extends Application
 
                     /* getSize() + 1: because we already remove 1, and we need the prev size.
                        also, first the "random" if statement, because we need to compare the selected field with the current qna. */
-                    if (random == selected || random == data.getSize() + 1)
+                    if (random == 1);
+                    else if (random == selected || random == data.getSize() + 1)
                         random--;
-                    else if (random == 1);
 
                     if (data.getSize() + 1 == selected)
                         selected--;
