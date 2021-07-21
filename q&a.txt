@@ -1,0 +1,14 @@
+{
+  "1": {
+    "answer": "red",
+    "question": "What color is an apple?"
+  },
+  "2": {
+    "answer": "yellow",
+    "question": "What color is a banana?"
+  },
+  "3": {
+    "answer": "blue",
+    "question": "What color is the sea?"
+  }
+}
